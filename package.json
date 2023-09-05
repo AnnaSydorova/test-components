@@ -1,0 +1,19 @@
+{
+  "name": "test-library",
+  "version": "1.0.0",
+  "description": "Test common components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnnaSydorova/test-components.git"
+  },
+  "author": "Anna Sydorova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnnaSydorova/test-components/issues"
+  },
+  "homepage": "https://github.com/AnnaSydorova/test-components#readme"
+}
