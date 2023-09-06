@@ -1,12 +1,11 @@
 {
-  "name": "assessment-input",
-  "private": false,
-  "version": "0.3.0",
-  "main": "dist/assessment-input.js",
-  "description": "Test React component",
+  "name": "assessment-search",
+  "version": "0.4.0",
   "type": "module",
+  "main": "dist/assessment-search.js",
+  "description": "Test React component",
   "exports": {
-    ".": "./src/Input.tsx"
+    ".": "./src/Search.tsx"
   },
   "scripts": {
     "dev": "vite",
@@ -17,6 +16,9 @@
     "build-storybook": "storybook build"
   },
   "dependencies": {
+    "assessment-button": "^0.1.0",
+    "assessment-icon": "^0.1.0",
+    "assessment-input": "^0.2.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
